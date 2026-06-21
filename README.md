@@ -100,12 +100,6 @@ I'm a passionate Full Stack Developer from Bangladesh with experience building s
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jobayer141856&theme=github-compact" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jobayer141856&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
 ---
 
 ## 🏆 Competitive Programming
@@ -122,14 +116,6 @@ I'm a passionate Full Stack Developer from Bangladesh with experience building s
   <a href="https://leetcode.com/u/jobayer150/">
     <img src="https://img.shields.io/badge/LeetCode-jobayer150-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/jobayer141856/jobayer141856/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
